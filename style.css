@@ -1,3 +1,14 @@
 nav{
     background-color: rgb(187, 223, 27);
+
+    background: #b11717;
+} 
+/* this is the bg*/
+nav a{
+    color: white;
+}
+
+nav{
+    padding: 30px;
+
 }
