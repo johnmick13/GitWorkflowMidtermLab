@@ -5,3 +5,7 @@ nav{
 nav a{
     color: white;
 }
+
+nav{
+    padding: 20px;
+}
